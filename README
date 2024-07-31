@@ -1,6 +1,13 @@
 Hello and welcome to my assignment 1.09.
 
 
+POKEFILES:
+
+This file should be unzipped in your home directory
+such that the hidden directory inside is located at
+~/.poke327
+this is the database with all pokemon
+
 CONTROLS:
 
 Quitting: Press shift+q to quit the game
